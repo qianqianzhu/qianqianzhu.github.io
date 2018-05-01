@@ -5,8 +5,7 @@ date:   2017-02-22
 categories: jekyll update
 ---
 
-## A brief introduction to basic concepts in mutation testing.
----
+### A brief introduction to basic concepts in mutation testing.
 
 **_We all use different kinds of software in our daily life: using Skype to call our families, using Microsoft Word to write articles, using Facebook to share our lives. However, software can also go wrong if developed in a careless way. For example, when you call your family via Skype, it suddenly goes to your boss. What a disaster?  Today, we are going to learn how software engineers test their code._**
 
@@ -14,7 +13,7 @@ Before we look into how software testing works, let us start with a story: Imagi
 
 ### Unit Testing
 
-How to act quickly enough to prevent actual damages? In reality, our government would hire a branch of police officers to make sure we citizens are law-abiding. So in your virtual town, CodeVille, unit testing is also acting as a kind of police force to guard your villagers. To put in a simple way, unit testing is the smallest testable part of your code, like functions, classes, or procedures. Its goal is to make sure each part of your code is working correctly. So now can you say CodeVille is safe enough to catch every single crime by employing unit test as a safeguard? Similar questions also arise in real software testing: how do you know if your tests are any good?
+How to act quickly enough to prevent actual damages? In reality, our government would hire a branch of police officers to make sure we citizens are law-abiding. So in your virtual town, CodeVille, _unit testing_ is also acting as a kind of police force to guard your villagers. To put in a simple way, unit testing is the smallest testable part of your code, like functions, classes, or procedures. Its goal is to make sure each part of your code is working correctly. So now can you say CodeVille is safe enough to catch every single crime by employing unit test as a safeguard? Similar questions also arise in real software testing: how do you know if your tests are any good?
 A possible way to know how good your tests are is to write tests for your tests. What? Are you kidding? Tests for tests, then tests for tests of tests, then tests for tests of tests of tests ... this method will never stop.
 
 ### Test Coverage
@@ -30,7 +29,7 @@ So now maybe you are wondering how to reduce the time of mutation testing. Many 
 ### Beyond software testing
 The story of the CodeVille almost ends up here. You probably get to know what is unit testing, why test coverage is necessary and how mutation testing works. No matter how much programming experience you have before, from now on, do some testing before or after you write down some code. You will certainly benefit a lot from forming the habit of testing in your programming routine.
 
-##### _"Testing shows the presence, not the absence of bugs."_
+#### _"Testing shows the presence, not the absence of bugs."_
 Also, bear in mind the famous quote from the Dutch computer pioneer Edsger Wybe Dijkstra. Testing does not show how good your code is, in another word, although you have achieved 100% test coverage, your code still has a chance to have bugs. So do not overestimate the role of testing! To make your programming time more enjoyable, simplicity is the golden rule.
 
 **_Together with “unit testing”, “test coverage” and “mutation testing”, you can build a very sound security system for your village: it can take care of every corner of the town, and at the same time it also responds to fake crimes. But still keep an eye on your small town: it still has a chance to commit a crime now and then._**
