@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-- Zhu Q, and Zaidman A. "Mutation Testing for Physical Computing,", The 18th IEEE International Conference on Software Quality, Reliability, and Security (QRS), Lisbon, Portugal, 2018<br>
+- Qianqian Zhu and Andy Zaidman, "Mutation Testing for Physical Computing," The 18th IEEE International Conference on Software Quality, Reliability, and Security (QRS), Lisbon, Portugal, 2018<br>
 [[preprint pdf](https://qianqianzhu.github.io/publications/qrs2018_zhu.pdf)] [slides]
 
 - Qianqian Zhu, Annibale Panichella and Andy Zaidman, "An Investigation of Compression Techniques to Speed up Mutation Testing," Proceedings of the 11th International Conference on Software Testing, Verification, and Validation (ICST), Västerås, Sweden, 2018.<br>
