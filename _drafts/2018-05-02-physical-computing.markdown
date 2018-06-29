@@ -2,7 +2,7 @@
 layout: post
 title:  "How to build a sound security system in your CodeVille?"
 date:   2017-02-22
-categories: research
+categories: jekyll update
 ---
 
 ### A brief introduction to basic concepts in mutation testing.
