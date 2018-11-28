@@ -13,5 +13,5 @@ permalink: /publications/
 doi: 10.1109/ICSTW.2017.25<br>
 [[pdf](https://qianqianzhu.github.io/publications/mutation2017.pdf)] [[slides](https://qianqianzhu.github.io/publications/slides_mutation2017.pdf)]
 
-- Zhu Q, Panichella A, Zaidman A. (2016) A systematic literature review of how mutation testing supports test activities. PeerJ Preprints 4:e2483v1 https://doi.org/10.7287/peerj.preprints.2483v1<br>
+- Zhu Q, Panichella A, Zaidman A. A systematic literature review of how mutation testing supports quality assurance processes. Softw Test Verif Reliab. 2018;28:e1675. https://doi.org/10.1002/stvr.1675<br>
 [[preprint pdf](https://qianqianzhu.github.io/publications/literature_review_peerj.pdf)] [[metadata](https://zenodo.org/badge/latestdoi/95541866)]
