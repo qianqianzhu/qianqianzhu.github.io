@@ -14,5 +14,5 @@ doi: 10.1109/ICSTW.2017.25<br>
 [[pdf](https://qianqianzhu.github.io/publications/mutation2017.pdf)] [[slides](https://qianqianzhu.github.io/publications/slides_mutation2017.pdf)]
 
 - Zhu Q, Panichella A, Zaidman A. A systematic literature review of how mutation testing supports quality assurance processes. Softw Test Verif Reliab. 2018;28:e1675. https://doi.org/10.1002/stvr.1675<br>
-[[pdf](https://qianqianzhu.github.io/publications/stvr.pdf)]
-[[peerj pdf](https://qianqianzhu.github.io/publications/literature_review_peerj.pdf)] [[metadata](https://zenodo.org/badge/latestdoi/95541866)]
+[[preprint pdf](https://qianqianzhu.github.io/publications/stvr.pdf)]
+[[metadata](https://zenodo.org/badge/latestdoi/95541866)]
