@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 - Zhu Q, Zaidman A, Panichella A. 2019. How to kill them all: an exploratory study on the impact of code observability on mutation testing. PeerJ Preprints 7:e27794v1 https://doi.org/10.7287/peerj.preprints.27794v1.<br>
 [[preprint pdf](https://qianqianzhu.github.io/publications/peerj_testability.pdf)]
-[[tool](https://zenodo.org/badge/latestdoi/147203995)]
+[[tool](https://zenodo.org/badge/latestdoi/147203995)][[slides](https://qianqianzhu.github.io/publications/slides_antwerp2019.pdf)]
 
 - Qianqian Zhu and Andy Zaidman, "Mutation Testing for Physical Computing," The 18th IEEE International Conference on Software Quality, Reliability, and Security (QRS), Lisbon, Portugal, 2018<br>
 [[preprint pdf](https://qianqianzhu.github.io/publications/qrs2018_zhu.pdf)] [[slides](https://qianqianzhu.github.io/publications/slides_qrs.pdf)]
