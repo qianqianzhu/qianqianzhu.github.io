@@ -11,7 +11,7 @@ We conducted a systematic literature review (SLR) on mutation testing, with a pa
 ### Important take-aways from the Literature Survey
 1. **Supporting techniques are under development**
 
-  Many of the supporting techniques for making mutation testing applicable are still under-developed. Also, existing mutation tools are not complete concerning the mutation operators they offer. The two inherent problems of mutation testing, especially the equivalent mutant detection problem, are not well-solved in the context of our research body. For the equivalent mutant problem, manual analysis ranked the top 1 among the others.
+   Many of the supporting techniques for making mutation testing applicable are still under-developed. Also, existing mutation tools are not complete concerning the mutation operators they offer. The two inherent problems of mutation testing, especially the equivalent mutant detection problem, are not well-solved in the context of our research body. For the equivalent mutant problem, manual analysis ranked the top 1 among the others.
 
   - Existing mutation tools lack certain mutation operators
     ![image](https://qianqianzhu.github.io/images/tool.png)
@@ -21,10 +21,10 @@ We conducted a systematic literature review (SLR) on mutation testing, with a pa
 
 2. **A deeper understanding is required**
 
-  A deeper understanding of mutation testing is required, such as what particular kinds of faults mutation testing are good at finding, and how a certain type of mutant work when testing real software. This would help the community to develop new mutation operators as well as overcome some of the inherent challenges.
-  ![image](https://qianqianzhu.github.io/images/question.png)
+   A deeper understanding of mutation testing is required, such as what particular kinds of faults mutation testing are good at finding, and how a certain type of mutant work when testing real software. This would help the community to develop new mutation operators as well as overcome some of the inherent challenges.
+   ![image](https://qianqianzhu.github.io/images/question.png)
 
 3. **Raise the awareness of appropriately reporting mutation testing**
 
- The awareness of appropriately reporting mutation testing in testing experiments should be raised among the researchers. We analysed 191 papers where around half percent did not provide their mutation tool source and subject program source. We considered the following five elements to be essential: mutation tool source, mutation operators used in experiments, how to deal with the equivalent mutant problem, how to cope with high computational cost and subject program source.
- ![image](https://qianqianzhu.github.io/images/report.png)
+   The awareness of appropriately reporting mutation testing in testing experiments should be raised among the researchers. We analysed 191 papers where around half percent did not provide their mutation tool source and subject program source. We considered the following five elements to be essential: mutation tool source, mutation operators used in experiments, how to deal with the equivalent mutant problem, how to cope with high computational cost and subject program source.
+   ![image](https://qianqianzhu.github.io/images/report.png)
