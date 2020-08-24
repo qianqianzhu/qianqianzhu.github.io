@@ -5,4 +5,4 @@ permalink: /about/
 ---
 <img src="/assets/qianqianzhu.jpg" alt="qianqianzhu" style="float:left">
 
-I am a PhD student in Software Engineering at TU Delft. My research interests include Software Testing, Debugging, Software Quality, Fault Predication, Mutation Testing, Static Analysis and everything related to Software. You can find me by <a href="mailto:{{ site.email }}">Email</a>, or Twitter {% include icon-twitter.html username="qzhu90" %}.
+I just completed my PhD in Software Engineering at TU Delft. Now I am seeking new role. My main research topic includes Software Testing, Debugging, Software Quality, Fault Predication, Mutation Testing, Static Analysis and everything related to Software. Besides research, I am also interested in applying what I have learned in the real world. I am always keeping a close eye in Economics, Biology, Chemistry and E-commerce.  You can find me by <a href="mailto:{{ site.email }}">Email</a>.

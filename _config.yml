@@ -7,14 +7,13 @@
 
 # Site settings
 title: Welcome to Qianqian's World
-email: qianqian.zhu@hotmail.com
+email: dr@qzhu.org
 description: > # this means to ignore newlines until "baseurl:"
   Hello, welcome to Qianqian's World.
-  I am a PhD candidate in Software Engineering at TU Delft.
-  Keep calm and carry on. 
+  I am a researcher specialising in mutation testing and software testing.
+  Keep calm and carry on.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://qianqianzhu.github.io" # the base hostname & protocol for your site
-twitter_username: qzhu90
 github_username:  qianqianzhu
 
 # Build settings
