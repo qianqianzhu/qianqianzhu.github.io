@@ -13,11 +13,11 @@ We conducted a systematic literature review (SLR) on mutation testing, with a pa
 
    Many of the supporting techniques for making mutation testing applicable are still under-developed. Also, existing mutation tools are not complete concerning the mutation operators they offer. The two inherent problems of mutation testing, especially the equivalent mutant detection problem, are not well-solved in the context of our research body. For the equivalent mutant problem, manual analysis ranked the top 1 among the others.
 
-  - Existing mutation tools lack certain mutation operators
-    ![image](https://qianqianzhu.github.io/images/tool.png)
+   - Existing mutation tools lack certain mutation operators
+     ![image](https://qianqianzhu.github.io/images/tool.png)
 
-  - Equivalent mutant problem are not well-solved
-    ![image](https://qianqianzhu.github.io/images/emp.png)
+   - Equivalent mutant problem are not well-solved
+     ![image](https://qianqianzhu.github.io/images/emp.png)
 
 2. **A deeper understanding is required**
 
