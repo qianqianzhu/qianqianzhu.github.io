@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Getting Mutants to Test your GPU Tests"
+date:   2019-01-02
+categories: research
+---
+
+Thanks to rapid advances in programmability and performance, GPUs have been widely applied in High-Performance Computing (HPC) and safety-critical domains. As such, quality assurance of GPU applications has gained increasing attention. This brings us to mutation testing, a fault-based testing technique that assesses the test suite quality by systematically introducing small artificial faults. It has been shown to perform well in exposing faults. In this paper, we investigate whether GPU programming can benefit from mutation testing. In addition to conventional mutation operators, we propose nine GPU-specific mutation operators based on the core syntax differences between CPU and GPU programming. We conduct a preliminary study on six CUDA systems. The results show that mutation testing can effectively evaluate the test quality of GPU programs: conventional mutation operators can guide the engineers to write simple direct tests, while GPU-specific mutation operators can lead to more intricate test cases which are better at revealing GPU-specific weaknesses.
+
+
+### Common mistakes in GPU
+ - Indexing Bugs
+   ![image](https://qianqianzhu.github.io/images/index.png)
+ - Not All Threads Available
+   ![image](https://qianqianzhu.github.io/images/thread.png)
+ - Shared Memory Bugs
+   ![image](https://qianqianzhu.github.io/images/shared_memory.png)
+ - Atomic Operation Omissions
+   ![image](https://qianqianzhu.github.io/images/atomic.png)
