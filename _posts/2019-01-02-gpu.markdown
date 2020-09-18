@@ -10,10 +10,17 @@ Thanks to rapid advances in programmability and performance, GPUs have been wide
 
 ### Common mistakes in GPU
  - Indexing Bugs
+
    ![image](https://qianqianzhu.github.io/images/index.png)
+
  - Not All Threads Available
+
    ![image](https://qianqianzhu.github.io/images/thread.png)
+
  - Shared Memory Bugs
+
    ![image](https://qianqianzhu.github.io/images/shared_memory.png)
+
  - Atomic Operation Omissions
+ 
    ![image](https://qianqianzhu.github.io/images/atomic.png)
