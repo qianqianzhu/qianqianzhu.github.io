@@ -3,6 +3,9 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+- Zhu, Qianqian, and Andy Zaidman. "Massively Parallel, Highly Efficient, but What About the Test Suite Quality? Applying Mutation Testing to GPU Programs." 2020 IEEE 13th International Conference on Software Testing, Validation and Verification (ICST). IEEE, 2020.
+[[preprint pdf](https://qianqianzhu.github.io/publications/icst2020.pdf)] [[slides](https://qianqianzhu.github.io/publications/slides_icst2020.pdf)]
+
 - Zhu Q, Zaidman A, Panichella A. 2019. How to kill them all: an exploratory study on the impact of code observability on mutation testing. PeerJ Preprints 7:e27794v1 https://doi.org/10.7287/peerj.preprints.27794v1.<br>
 [[preprint pdf](https://qianqianzhu.github.io/publications/peerj_testability.pdf)]
 [[tool](https://zenodo.org/badge/latestdoi/147203995)][[slides](https://qianqianzhu.github.io/publications/slides_antwerp2019.pdf)]
