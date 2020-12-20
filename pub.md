@@ -3,6 +3,8 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+Qianqian Zhu, Andy Zaidman, Annibale Panichella. How to kill them all: An exploratory study on the impact of code observability on mutation testing. Journal of Systems and Software,Volume 173, 2021, 110864, ISSN 0164-1212. https://doi.org/10.1016/j.jss.2020.110864.
+
 - Zhu, Qianqian, and Andy Zaidman. "Massively Parallel, Highly Efficient, but What About the Test Suite Quality? Applying Mutation Testing to GPU Programs." 2020 IEEE 13th International Conference on Software Testing, Validation and Verification (ICST). IEEE, 2020.<br>
 [[preprint pdf](https://qianqianzhu.github.io/publications/icst2020.pdf)] [[slides](https://qianqianzhu.github.io/publications/slides_icst2020.pdf)]
 
