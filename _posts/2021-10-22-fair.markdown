@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "FAIR software engineering in data ecosystem"
+date:   2021-10-22
+categories: research
+---
+
+A data ecosystem consists of data sources, data infrastructure, analytics tools and service platforms to support the whole data lifecycle.
+As a cornerstone of the data ecosystem, the software considerably influences the evolvability of the ecosystem. 
+To build a robust data ecosystem that will evolve sustainably over time, we should apply modern software engineering methodologies to ecosystem development. 
+More specifically, we should focus on API management and software maintainability in line with the FAIR Principles (Findable, Accessible, Interoperable and Reusable) [1].
+
+### API management
+Most use cases can be realised through application programming interfaces (APIs). 
+Smart API management is the key to promoting wide user adoption and new business models and ensuring data security, privacy, and integrity.
+To effectively manage APIs, we can create a unified API catalogue that defines all available APIs. The API catalogue keeps the approach consistent and makes all APIs findable and accessible for end-users. 
+Also, as the heart of the API management, an API gateway such as OpenAPI [2] would be adopted to control API lifecycles, govern API access, and monitor API usages. 
+Thus, we can establish secure, flexible and reliable communication between the back-end services and digital applications for the data space; this contributes to (re)usability and accessibility and interoperability.
+
+### Software maintainability
+A well-organised codebase would make it easy and effective to maintain in the future. High software maintainability aligns with high interoperability and reusability. Following recommendations of good research software development [3], attention should be paid to open source, version control, dependency, documentation, software licenses and long-term sustainability. All of the source code should be publicly accessible from day one under an open-source licence.
+For documentation, a detailed user manual such as how to install and use the software and in-code comments should be provided. To make it easier for users, we should also provide straightforward tutorials and examples with inputs and expected outputs. 
+We should focus on testing (including unit, regression and integration tests), code review, and continuous integration for quality assurance. In addition, software quality metrics such as test coverage and McCabe’s Cyclomatic complexity would be useful to develop quality control.
+
+[1] https://www.go-fair.org/fair-principles/
+[2] https://github.com/OAI/OpenAPI-Specification
+[3] Jiménez, Rafael C., et al. "Four simple recommendations to encourage best practices in research software." F1000Research 6 (2017).
