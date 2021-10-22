@@ -23,5 +23,7 @@ For documentation, a detailed user manual such as how to install and use the sof
 We should focus on testing (including unit, regression and integration tests), code review, and continuous integration for quality assurance. In addition, software quality metrics such as test coverage and McCabe’s Cyclomatic complexity would be useful to develop quality control.
 
 [1] https://www.go-fair.org/fair-principles/
+
 [2] https://github.com/OAI/OpenAPI-Specification
+
 [3] Jiménez, Rafael C., et al. "Four simple recommendations to encourage best practices in research software." F1000Research 6 (2017).
