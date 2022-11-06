@@ -5,7 +5,5 @@ permalink: /about/
 ---
 <img src="/assets/qianqianzhu.jpg" alt="qianqianzhu" style="float:left">
 
-I am working as a research associate/research software engineer at University of Edinburgh.
-The role of a research software engineer offers the right balance of research and practice for me. As a research software engineer, I can always learn new things from different research domains; meanwhile, I can apply my knowledge of software engineering to develop a high quality, reliable and maintainable software.
-Before that, I received master’s degree from Imperial College London in 2014 and PhD degree in Software Engineering from Delft University of Technology in 2020.
+As a PhD in software engineering, I have a solid foundation in software engineering and always foster best practices in software development and use. My PhD study is centred at software testing, where I acquired a detailed understanding of software engineering, including coding standards, version control, testing, review, continuous integration and quality control. My expertise in software testing and quality assurance can assist in the implementation of new algorithms, refactoring existing codebase, adding up-to-date tests and documents. Also, I can contribute to software maintenance, including issue identification, defects repair and regular software releases. 
 You can find me by <a href="mailto:{{ site.email }}">Email</a>.
